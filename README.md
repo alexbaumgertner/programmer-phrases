@@ -9,4 +9,5 @@ Programmer phrases for review code, create issues etc. Russian-English dictionar
 | Посмотри пожалуйста еще раз, я поправил все замечания | Please take a look once again, I fixed all issues |
 | PR1 закрыт в пользу PR2 | PR1 closed in favor of PR2 |
 | Мне кажется, лучше вынести этот код в отдельный файл | ? |
+| Я нашел причину бага, она в том ..., а не в том, что вы написали, я поправил описание задачи. | I found it: it happens when ..., not because of what you've written, so I edited issue description. |
 | фраза на русском | перевод |
